@@ -26,3 +26,10 @@ As Angular 2 seed we have used project that is described in [post](https://mediu
 # License
 
 angular2-node-fb-login is released under [MIT License](https://opensource.org/licenses/MIT).
+
+
+# Additional Links
+
+https://developers.facebook.com/docs/facebook-login/web
+https://developers.facebook.com/docs/javascript/examples
+https://developers.facebook.com/docs/javascript/reference/v3.2
